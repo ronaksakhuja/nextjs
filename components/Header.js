@@ -5,7 +5,7 @@ export default function Header() {
     <header>
       <div className='container'>
         <Link href='/' passHref>
-          <h1>Ronak's Website</h1>
+          <h1>Ronak Website</h1>
         </Link>
         <div className="nav">
         <ul>

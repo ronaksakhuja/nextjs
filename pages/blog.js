@@ -9,7 +9,7 @@ export default function Home({ posts }) {
   return (
     <div>
       <Head>
-        <title>Ronak's Blog</title>
+        <title>Ronak Blog</title>
       </Head>
       <div className='posts'>
         {posts.map((post, index) => (

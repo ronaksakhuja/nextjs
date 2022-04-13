@@ -5,7 +5,7 @@ export default function Home({ posts }) {
   return (
     <div>
       <Head>
-        <title>Ronak's Website</title>
+        <title>Ronak Website</title>
       </Head>
       <div class="img-container">
       <Image
