@@ -7,7 +7,7 @@ export default function Home({ posts }) {
       <Head>
         <title>Ronak Website</title>
       </Head>
-      <div class="img-container">
+      <div className="img-container">
       <Image
                   priority
                   src="/images/profile.jpg"
