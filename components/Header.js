@@ -9,8 +9,8 @@ export default function Header() {
         </Link>
         <div className="nav">
         <ul>
-          <li><a href="/" className="nav-link">Home</a></li>
-          <li><a href="/blog" className="nav-link"><em>Blog</em></a></li>
+          <li><Link href="/" className="nav-link" passHref>Home</Link></li>
+          <li><Link href="/blog" className="nav-link" passHref>Blog</Link></li>
         </ul>
       </div>
       </div>
